@@ -19,10 +19,11 @@
 ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HalfBloodS&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalfBloodS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=HalfBloodS)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-![](https://komarev.com/ghpvc/?username=HalfBloodS&style=plastic)
+
 
 
 <!---
