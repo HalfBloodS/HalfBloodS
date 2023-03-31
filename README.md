@@ -21,7 +21,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalfBloodS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-![](https://komarev.com/ghpvc/?username=HalfBloodS)
+
+  ![](https://komarev.com/ghpvc/?username=HalfBloodS)
 
 
 
