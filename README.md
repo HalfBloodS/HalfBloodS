@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HalfBloodS
+- 👋 Hi, I’m @HalfBloodS/ Jakub Ruzicka
 - 🌱 I’m currently learning how to code
 - 💞️ Student @42_Prague
 - 📫 How to reach me email/ jakob.ruzicka@gmail.com
