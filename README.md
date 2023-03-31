@@ -7,7 +7,7 @@
 📫 How to reach me via email/ jakob.ruzicka@gmail.com
 
 
-//My Current 42_Prague progress bellow:
+### :fire:My Current 42_Prague progress bellow:
 
 [![jruzicka's 42 stats](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)
 
