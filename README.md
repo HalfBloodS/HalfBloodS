@@ -16,13 +16,13 @@
 - ft_printf [![jruzicka's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2980793)](https://github.com/JaeSeoKim/badge42)
 - get_next_line [![jruzicka's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2980795)](https://github.com/JaeSeoKim/badge42)
 - Libft [![jruzicka's 42 Libft Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2928868)](https://github.com/JaeSeoKim/badge42)
-![](https://komarev.com/ghpvc/?username=HalfBloodS)
 ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HalfBloodS&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalfBloodS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+![](https://komarev.com/ghpvc/?username=HalfBloodS)
 
 
 <!---
