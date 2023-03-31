@@ -17,7 +17,7 @@
 - get_next_line [![jruzicka's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2980795)](https://github.com/JaeSeoKim/badge42)
 - Libft [![jruzicka's 42 Libft Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2928868)](https://github.com/JaeSeoKim/badge42)
 - ![42](https://user-images.githubusercontent.com/97732201/229158399-a5f7ecf0-2d41-498b-81a0-c435879dfe50.png)
-- ![Visitor Count](https ://profile-counter.glitch.me/{HalfBloods}/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/{HalfBloods}/count.svg)
 
 
 <!---
