@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HalfBloodS/ Jakub Ruzicka
 - 🌱 I’m currently learning how to code
-- 💞️ Student @42_Prague
+- 💞️ Student @42_Prague ![yo_dawg](https://user-images.githubusercontent.com/97732201/229158135-fe0e9eb8-cfad-4a43-8e54-54f1fdc02f11.gif)
+
 - 📫 How to reach me email/ jakob.ruzicka@gmail.com
 - //My Current 42_Prague progress bellow:
 - 💡 42 Stats Card!
