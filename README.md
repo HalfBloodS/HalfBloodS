@@ -18,6 +18,7 @@
 - Libft [![jruzicka's 42 Libft Score](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/project/2928868)](https://github.com/JaeSeoKim/badge42)
 ### :fire: My GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HalfBloodS&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalfBloodS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
