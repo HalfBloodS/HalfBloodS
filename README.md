@@ -19,7 +19,7 @@
 - ![42](https://user-images.githubusercontent.com/97732201/229158399-a5f7ecf0-2d41-498b-81a0-c435879dfe50.png)
 - ![](https://komarev.com/ghpvc/?username=HalfBloodS)
 - ### :fire: My GitHub Stats :
-- https://github-readme-streak-stats.herokuapp.com/?user=HalfBloodS
+- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HalfBloodS&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!---
