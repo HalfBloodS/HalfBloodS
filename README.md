@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning how to code
 - 💞️ Student @42_Prague
 - 📫 How to reach me email/ jakob.ruzicka@gmail.com
-- //My Current 24 Progress bellow:
+- //My Current 42_Prague progress bellow:
 - 💡 42 Stats Card!
 - [![jruzicka's 42 stats](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/stats?cursusId=21&coalitionId=286)](https://github.com/JaeSeoKim/badge42)
 - 
