@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalfBloodS
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on my project.
+- 💞️ Student @42_Prague
 - 📫 How to reach me email/ jakob.ruzicka@gmail.com
 - [![jruzicka's 42 stats](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/stats?cursusId=21&coalitionId=286)](https://github.com/JaeSeoKim/badge42)
 <!---
