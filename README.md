@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning how to code
 - 💞️ Student @42_Prague
 - 📫 How to reach me via email/ jakob.ruzicka@gmail.com
+- ![tatooine](https://user-images.githubusercontent.com/97732201/229158652-7cffceb0-be36-47a6-80ff-d450b18c3300.png)
+
 - //My Current 42_Prague progress bellow:
 - 💡 42 Stats Card!
 - [![jruzicka's 42 stats](https://badge42.vercel.app/api/v2/clfwmfpc2009708l8uyzil44h/stats?cursusId=21&coalitionId=314)](https://github.com/JaeSeoKim/badge42)
