@@ -1,3 +1,6 @@
+- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 - 👋 Hi, I’m @HalfBloodS/ Jakub Ruzicka
 - 🌱 I’m currently learning how to code
 - 💞️ Student @42_Prague
